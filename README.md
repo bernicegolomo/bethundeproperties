@@ -28,10 +28,3 @@ Bethunde Properties is a real estate management system built with Laravel, desig
 1. Clone the repository:
    ```bash
    git clone https://github.com/bernicegolomo/bethundeproperties.git
-cd bethunde-properties
-composer install
-npm install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate
-php artisan serve
